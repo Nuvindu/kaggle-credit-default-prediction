@@ -7,3 +7,8 @@ Imputation
 Handle the missing values for the rest of the columns as follows.
     * Null values in the columns with categorical variables are substituted by the most frequent value in the relevant column.
     * Null values in the columns with continuous variables are substituted by the median value of the relevant column.
+
+Categorical Encoding
+
+Use a label encoding method to convert the categorical variables into a integer value set.
+
