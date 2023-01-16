@@ -1,1 +1,1 @@
-# kaggle-competition
+# kaggle-credit-default-prediction
